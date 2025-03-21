@@ -23,4 +23,4 @@
 - 📧 Email: shadrinovva@gmail.com
 - 💼 Telegram: [shadrinova](https://t.me/shadrinova)
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=shadrinovva&show_icons=true&theme=dark)# shadrinovva
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=shadrinovva&show_icons=true&theme=dark)
